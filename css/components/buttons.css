@@ -1,0 +1,10 @@
+@import url("components/buttons.css");
+
+.btn-primary{
+  padding: 15px 36px;
+  background-color: #19DE87;
+  color: white;
+  border-radius: 50px ;
+  display: inline-block;
+
+}
